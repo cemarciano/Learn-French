@@ -1,7 +1,12 @@
 [
 	{
 		"word": "hautain",
-		"meaning": "arrogante",
+		"meaning": "arrogante, haughty",
 		"phrase": ["Un peu hautain pour un esclave", "Elle était hautaine, un peu comme une comtesse"]
+	},
+	{
+		"word": "plaindre",
+		"meaning": ["reclamar, se queixar", "lamentar, to feel sorry for someone"],
+		"phrase": ["J'y vais deux fois par semaine, et c'est pour l'entendre se plaindre", "Je te plains (= I feel sorry for you)"]
 	}
 ]
