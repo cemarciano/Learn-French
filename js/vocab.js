@@ -152,6 +152,9 @@ function createWord(){
 	let h1 = $("<h1></h1>").text(capitalize(currentWord.word));
 	// Appends to the DOM:
 	$(".wrapper").append(h1)
+	// Plays sound:
+	var audio = new Audio("pronunciation/vocab/" + currentWord.word + ".mp3");
+	audio.play();
 }
 
 function createDefinition(){
