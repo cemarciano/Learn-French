@@ -6,6 +6,7 @@ var currentIndex;
 var totalDeletions = 0;
 var progressBar = "visible";
 var words;
+var audio;
 
 /* Initialization function: */
 $(document).ready(function(){
@@ -153,7 +154,8 @@ function createWord(){
 	// Appends to the DOM:
 	$(".wrapper").append(h1)
 	// Plays sound:
-	var audio = new Audio("pronunciation/vocab/" + currentWord.word + ".mp3");
+	if (audio) audio.pause();
+	audio = new Audio("pronunciation/vocab/" + currentWord.word + ".mp3");
 	audio.play();
 }
 
@@ -181,6 +183,11 @@ function createDefinition(){
 			});
 		}
 	}
+
+	// Play example phrase:
+	if (audio) audio.pause();
+	audio = new Audio("pronunciation/vocab/" + currentWord.word + "2.mp3");
+	$(audio).on("canplay", () => audio.play() )
 }
 
 function obtainTotalFromURL(){

@@ -12,6 +12,25 @@
 	{
 		"word": "geignard",
 		"meaning": "whiny",
-		"phrase": "Elle se plaint continuellement"
+		"phrase": "Elle se plaint continuellement pour rien, c'est une geignarde"
+	},
+	{
+		"word": "repousser",
+		"meaning": ["(v.i.) crescer de novo", "(v.t.d) adiar ou repelir"],
+		"phrase": "Ton rendez-vous de 13h demande s'il peut repousser à 13h15 ?"
+	},
+	{
+		"word": "rousse",
+		"meaning": "ruiva"
+	},
+	{
+		"word": "lourd",
+		"meaning": "pesado",
+		"phrase": "Ce colis n'est pas lourd mais trop volumineux pour être porté seul"
+	},
+	{
+		"word": "lourde",
+		"meaning": "pesada",
+		"phrase": "Pose ta valise, elle doit être lourde"
 	}
 ]
