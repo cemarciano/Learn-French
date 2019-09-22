@@ -32,5 +32,81 @@
 		"word": "lourde",
 		"meaning": "pesada",
 		"phrase": "Pose ta valise, elle doit être lourde"
+	},
+	{
+		"word": "ça y est !",
+		"meaning": "there it is!, used to signal the beginning or end of something",
+		"phrase": "Ça y est, j'ai fini",
+		"audio": "cayest"
+	},
+	{
+		"word": "dingue",
+		"meaning": "malade, fou, louco, maluco",
+		"phrase": "Il est dingue de vouloir faire cette course de montagne seul"
+
+	},
+	{
+		"word": "caddie",
+		"meaning": "carrinho de compras, chariot en libre service pour transporter des achats ou des bagages"
+	},
+	{
+		"word": "sonner",
+		"meaning": "ring, tocar",
+		"phrase": ["Tu peux sonner chez moi ?", "Son téléphone sonne tout le temps"]
+	},
+	{
+		"word": "ramasser",
+		"meaning": "pick up, apanhar, recolher",
+		"phrase": "Ramasse tes affaires, on y va (= pick up your stuff, we're leaving)"
+	},
+	{
+		"word": "gênante",
+		"meaning": "(fem) embarrassant, pénible, embarassing",
+		"phrase": "Cette musique de fond est gênante"
+	},
+	{
+		"word": "en-bas",
+		"meaning": "Lá embaixo",
+		"phrase": "De haut en bas"
+	},
+	{
+		"word": "jusqu'en bas",
+		"meaning": "Até embaixo",
+		"audio": "jusquenbas"
+	},
+	{
+		"word": "abonner",
+		"meaning": "assinar, se inscrever",
+		"phrase": "Vous pouvez aussi vous abonner à cette revue"
+	},
+	{
+		"word": "arroser",
+		"meaning": "to water, molhar, sprinkle",
+		"phrase": "Il faut arroser les radis tous les jours"
+	},
+	{
+		"word": "draguer",
+		"meaning": "hit on, dar em cima",
+		"phrase": "Draguer une fille"
+	},
+	{
+		"word": "mec",
+		"meaning": "cara, guy",
+		"phrase": "Ce mec est un connard !"
+	},
+	{
+		"word": "connard",
+		"meaning": "idiota, estúpido",
+		"phrase": "Ce mec est un connard !"
+	},
+	{
+		"word": "insolite",
+		"meaning": "unusual, strange",
+		"phrase": "La tomate voyage est une variété ancienne, insolite et originale !"
+	},
+	{
+		"word": "deraté",
+		"meaning": "corredor",
+		"phrase": "Courir comme un dératé (= run like hell)"
 	}
 ]

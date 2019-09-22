@@ -155,7 +155,9 @@ function createWord(){
 	$(".wrapper").append(h1)
 	// Plays sound:
 	if (audio) audio.pause();
-	audio = new Audio("pronunciation/vocab/" + currentWord.word + ".mp3");
+	let audioName;
+	currentWord.audio ? audioName = currentWord.audio : audioName = currentWord.word;
+	audio = new Audio("pronunciation/vocab/" + audioName + ".mp3");
 	audio.play();
 }
 
@@ -186,7 +188,9 @@ function createDefinition(){
 
 	// Play example phrase:
 	if (audio) audio.pause();
-	audio = new Audio("pronunciation/vocab/" + currentWord.word + "2.mp3");
+	let audioName;
+	currentWord.audio ? audioName = currentWord.audio : audioName = currentWord.word;
+	audio = new Audio("pronunciation/vocab/" + audioName + "2.mp3");
 	$(audio).on("canplay", () => audio.play() )
 }
 
