@@ -133,5 +133,51 @@
 		"meaning": "em breve, soon",
 		"phrase": "Ils seront bientôt tous réunis",
 		"audio": "bientot"
+	},
+	{
+		"word": "je m'en fous",
+		"meaning": "[rude] nevermind, we don't care, pas grave, je m’en moque, je m’en fiche, je m’en tape",
+		"phrase": "Pour ta gouverne : on s'en fout, bébé",
+		"audio": "jemenfous"
+	},
+	{
+		"word": "je m’en moque",
+		"meaning": "nevermind, we don't care, pas grave, je m’en fout [rude], je m’en fiche, je m’en tape",
+		"phrase": "Pour ta gouverne : on s'en fout, bébé",
+		"audio": "jemenmoque"
+	},
+	{
+		"word": "je m’en fiche",
+		"meaning": "nevermind, we don't care, pas grave, je m’en fout [rude], je m’en moque, je m’en tape",
+		"phrase": "Pour ta gouverne : on s'en fout, bébé",
+		"audio": "jemenfiche"
+	},
+	{
+		"word": "je m’en tape",
+		"meaning": "nevermind, we don't care, pas grave, je m’en fout [rude], je m’en moque, je m’en fiche",
+		"phrase": "Pour ta gouverne : on s'en fout, bébé",
+		"audio": "jementape"
+	},
+	{
+		"word": "sapin de Noël",
+		"meaning": "Christmas Tree",
+		"audio": "sapindenoel"
+	},
+	{
+		"word": "rayer",
+		"meaning": ["arranhar", "excluir"],
+		"phrase": "rayer de la carte (= excluir do mapa, wipe out from the map)"
+	},
+	{
+		"word": "tiède",
+		"meaning": "warm",
+		"phrase": "Un accueil tiède",
+		"audio": "tiede"
+	},
+	{
+		"word": "d'ailleurs",
+		"meaning": "besides, moreover, além disso",
+		"phrase": "Et de fort belle manière d'ailleurs",
+		"audio": "dailleurs"
 	}
 ]
