@@ -179,5 +179,38 @@
 		"meaning": "besides, moreover, além disso",
 		"phrase": "Et de fort belle manière d'ailleurs",
 		"audio": "dailleurs"
+	},
+	{
+		"word": "briquet",
+		"meaning": "isqueiro",
+		"phrase": "On allume la cigarette avec le briquet"
+	},
+	{
+		"word": "singe",
+		"meaning": "macaco, monkey",
+		"phrase": "Le singe est toujours singe, fût-il déguisé en prince"
+	},
+	{
+		"word": "en semaine",
+		"meaning": "durante a semana, on weekdays",
+		"phrase": "Je porte des chemises blanches en semaine",
+		"audio": "ensemaine"
+	},
+	{
+		"word": "tout à l'heure",
+		"meaning": "a short period of time, either in the past or in the future",
+		"phrase": ["Il est parti tout à l'heure", "Il va partir tout à l'heure"],
+		"audio": "toutalheure"
+	},
+	{
+		"word": "À l'instant",
+		"meaning": "just a moment ago, tout à l'heure",
+		"phrase": "je viens à l'instant de recevoir",
+		"audio": "alinstant"
+	},
+	{
+		"word": "solde",
+		"meaning": ["promoção, bargain sale", "saldo"],
+		"phrase": ["Est-ce en solde ?", "Je voudrais connaître le solde de mon compte"]
 	}
 ]
