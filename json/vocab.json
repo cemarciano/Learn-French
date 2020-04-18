@@ -212,5 +212,16 @@
 		"word": "solde",
 		"meaning": ["promoção, bargain sale", "saldo"],
 		"phrase": ["Est-ce en solde ?", "Je voudrais connaître le solde de mon compte"]
+	},
+	{
+		"word": "quand même",
+		"meaning": ["anyway", "malgré tout"],
+		"phrase": ["C'était quand même bien / It was still good", "J'avais peur, mais je l'ai fait quand même", "Elle est polie, quand même / At least she's polite"],
+		"audio": "quandmeme"
+	},
+	{
+		"word": "poli",
+		"meaning": ["polite", "polished"],
+		"phrase": ["Elle est polie, quand même / At least she's polite"]
 	}
 ]
